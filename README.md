@@ -11,9 +11,10 @@ Key focus area of the challenge assignment: Determine the number of retiring emp
 ---
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-
+![retiring_titles_image](/relative/path/to/img.jpg?raw=true "Optional Title")
 * The number of senior engineers and senior staff retiring are higher than other positions - so there could be a shortage of senior tech employees soon
-* 
+
+![mentorship_eligibility_image](/relative/path/to/img.jpg?raw=true "Optional Title")
 * Mentorship eligibility outcome indicates that senior staff and engineers satisfy the criterion of eligibility while the future shortage could also be for senior engineers. Only ~169 senior engineers satisfy the mentorship eligibility criterion
 
 ---
