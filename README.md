@@ -11,9 +11,10 @@ Key focus area of the challenge assignment: Determine the number of retiring emp
 ---
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-
+![retiring_titles_image](https://github.com/preerit/Pewlett-Hackard-Analysis/blob/main/ritiring_titiles_image.png)
 * The number of senior engineers and senior staff retiring are higher than other positions - so there could be a shortage of senior tech employees soon
-* 
+
+![mentorship_eligibility_image](https://github.com/preerit/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility_image.png)
 * Mentorship eligibility outcome indicates that senior staff and engineers satisfy the criterion of eligibility while the future shortage could also be for senior engineers. Only ~169 senior engineers satisfy the mentorship eligibility criterion
 
 ---
